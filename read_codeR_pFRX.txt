@@ -1,0 +1,9 @@
+Instructions for Reproducing Statistical Analyses in a Local RStudio Environment.
+
+1.- Create a folder called FRXLleida on the D: drive.
+2.- Place the file pFRX_data2.xls in this folder.
+3.- Copy the five R script files required to perform the analyses into the same folder.
+4.- Open RStudio and load the R scripts.
+5.- Run the scripts in the order indicated by their filenames (1 to 5).
+
+The output files will be saved in a folder named "Results" within the working directory defined above.
